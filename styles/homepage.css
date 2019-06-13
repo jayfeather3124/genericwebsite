@@ -1,0 +1,26 @@
+.hero-section {
+    background-image: url(/home/student/Desktop/images/mah-name-jiff.jpeg);
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-section > .top-heading {
+    padding: 0.5px 10px;
+    background-color: #11122b;
+    color: navajowhite;
+    width: 45px;
+    border-radius: 1px;
+
+}
+.hero-section > .bottom-heading {
+    padding: 0.5px 5px;
+    background-color: navajowhite;
+    color: #11122b;
+    width:105px;
+    border-radius: 1px;
+
+}
